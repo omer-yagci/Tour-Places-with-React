@@ -4,6 +4,6 @@
 
 ##Project Link
 
-omer-yagci-tour-places-react.netlify.app
+https://omer-yagci-tour-places-react.netlify.app
 
 
