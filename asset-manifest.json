@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omer-yagci/static/css/main.5e31cebb.css",
+    "main.js": "/omer-yagci/static/js/main.208cf311.js",
+    "index.html": "/omer-yagci/index.html",
+    "main.5e31cebb.css.map": "/omer-yagci/static/css/main.5e31cebb.css.map",
+    "main.208cf311.js.map": "/omer-yagci/static/js/main.208cf311.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e31cebb.css",
+    "static/js/main.208cf311.js"
+  ]
+}
